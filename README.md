@@ -1,6 +1,6 @@
 # Simple Flutter Filter App
 
-Just a small practice project to filter a local list of items by multiple criteria (Date, Gender, and Job Type) in Flutter using standard stateful widgets.
+A practice project to filter a local list of items by multiple criteria (Date, Gender, and Job Type) in Flutter using standard stateful widgets.
 
 ## How it works
 The app matches data records using three layers of filters:
